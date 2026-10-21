@@ -116,7 +116,7 @@ int main()
     // IMPORT CREDIT CARDS
     // =====================================================
 
-    ifstream card_file("credit_cards.txt");
+    ifstream card_file("credit_card.txt");
 
     if (!card_file)
     {
